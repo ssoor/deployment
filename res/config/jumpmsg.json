@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Type": "JMT_Game",
+        "Params": "\"{\"GameId\":1, \"x\":\"y\"}\"",
+        "ExpireTime": "2017.11.27 18:00"
+    },
+    {
+        "Id": 2,
+        "Type": "JMT_News",
+        "Params": "\"{\"NewsId\":1, \"x\":\"y\"}\"",
+        "ExpireTime": "2017.11.27 18:00"
+    },
+    {
+        "Id": 3,
+        "Type": "JMT_Purchase",
+        "Params": "\"{\"WareId\":1, \"x\":\"y\"}\"",
+        "ExpireTime": "2017.11.27 18:00"
+    },
+    {
+        "Id": 4,
+        "Type": "JMT_Logic",
+        "Params": "\"{\"GameId\":1, \"x\":\"y\"}\"",
+        "ExpireTime": "2017.11.27 18:00"
+    }
+]

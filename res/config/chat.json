@@ -1,0 +1,15 @@
+{
+    "GlobalCoolingTime": 5000,
+    "Consumption": [
+        {
+            "ConfigId": 2,
+            "Count": 0
+        }
+    ],
+    "ConsSpeaker": [
+        {
+            "ConfigId": 7,
+            "Count": -1
+        }
+    ]
+}

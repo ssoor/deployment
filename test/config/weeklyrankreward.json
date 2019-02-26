@@ -1,0 +1,207 @@
+{
+	"Title": "จัดอันดับชนะประจำสัปดาห์",
+	"Cotent": " การจัดอันดับชนะของสัปดาห์ก่อนสิ้นสุดแล้ว อันดับของคุณคือ{0} ได้รับรางวัลดังต่อไปนี้ \n ผู้เล่นที่อันดับ 50คนแรก จะได้รับรางวัล 3000-50000ชิป",
+	"EffectiveDays": -1,
+	"Rewards": [
+		{
+			"ConfigId": 2,
+			"Count": 50000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 30000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 30000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 10000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 10000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 10000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 10000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 10000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 10000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 10000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 5000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		},
+		{
+			"ConfigId": 2,
+			"Count": 3000
+		}
+	]
+}

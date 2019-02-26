@@ -1,0 +1,952 @@
+[
+    {
+        "Id": 1,
+        "Viplv": 0,
+        "LoginRewards": 0,
+        "Freeprop": [],
+        "PropsrewardIcon": [],
+        "PaymentTimes": 0,
+        "PaymentCount": 0,
+        "ChengTuoReward": 0,
+        "UnlockSession": 1,
+        "MaxGiveCount": 0,
+        "GivingTax": 0,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 0,
+        "TransformationFactor": 0,
+        "ShuntFactor": 0
+    },
+    {
+        "Id": 2,
+        "Viplv": 1,
+        "LoginRewards": 1,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 1
+            },
+            {
+                "ConfigId": 13,
+                "Count": 3625
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 0,
+        "PaymentCount": 0,
+        "ChengTuoReward": 0,
+        "UnlockSession": 1,
+        "MaxGiveCount": 1000000,
+        "GivingTax": 0.05,
+        "GiveCaps": 0,
+        "GiveRemaining": 300000,
+        "GiveBuy": 7,
+        "BuyCD": 0,
+        "VipPointExchange": 1,
+        "TransformationFactor": 0.9737,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 3,
+        "Viplv": 2,
+        "LoginRewards": 1.1,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 2
+            },
+            {
+                "ConfigId": 13,
+                "Count": 8750
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 0,
+        "PaymentCount": 0,
+        "ChengTuoReward": 0,
+        "UnlockSession": 2,
+        "MaxGiveCount": 3000000,
+        "GivingTax": 0.048,
+        "GiveCaps": 0,
+        "GiveRemaining": 100000,
+        "GiveBuy": 5,
+        "BuyCD": 0,
+        "VipPointExchange": 1,
+        "TransformationFactor": 1.0433,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 4,
+        "Viplv": 3,
+        "LoginRewards": 1.2,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 3
+            },
+            {
+                "ConfigId": 13,
+                "Count": 12500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 1,
+        "PaymentCount": 3000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 2,
+        "MaxGiveCount": 5000000,
+        "GivingTax": 0.046,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 3,
+        "BuyCD": 0,
+        "VipPointExchange": 1.1,
+        "TransformationFactor": 1.0954,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 5,
+        "Viplv": 4,
+        "LoginRewards": 1.3,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 4
+            },
+            {
+                "ConfigId": 13,
+                "Count": 25000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 1,
+        "PaymentCount": 4000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 2,
+        "MaxGiveCount": 7000000,
+        "GivingTax": 0.044,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 3,
+        "BuyCD": 0,
+        "VipPointExchange": 1.1,
+        "TransformationFactor": 1.1411,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 6,
+        "Viplv": 5,
+        "LoginRewards": 1.4,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 37500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 2,
+        "PaymentCount": 5000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 2,
+        "MaxGiveCount": 9000000,
+        "GivingTax": 0.042,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 3,
+        "BuyCD": 0,
+        "VipPointExchange": 1.2,
+        "TransformationFactor": 1.1664,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 7,
+        "Viplv": 6,
+        "LoginRewards": 1.5,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 50000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 2,
+        "PaymentCount": 6000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 2,
+        "MaxGiveCount": 15000000,
+        "GivingTax": 0.04,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 3,
+        "BuyCD": 0,
+        "VipPointExchange": 1.2,
+        "TransformationFactor": 1.1834,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 8,
+        "Viplv": 7,
+        "LoginRewards": 1.6,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 50000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 3,
+        "PaymentCount": 7000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 2,
+        "MaxGiveCount": 30000000,
+        "GivingTax": 0.038,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 3,
+        "BuyCD": 0,
+        "VipPointExchange": 1.3,
+        "TransformationFactor": 1.1946,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 9,
+        "Viplv": 8,
+        "LoginRewards": 1.7,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 100000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 3,
+        "PaymentCount": 8000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 2,
+        "MaxGiveCount": 45000000,
+        "GivingTax": 0.036,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 3,
+        "BuyCD": 0,
+        "VipPointExchange": 1.3,
+        "TransformationFactor": 1.2058,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 10,
+        "Viplv": 9,
+        "LoginRewards": 1.8,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 137500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 3,
+        "PaymentCount": 9000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 2,
+        "MaxGiveCount": 60000000,
+        "GivingTax": 0.034,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 3,
+        "BuyCD": 0,
+        "VipPointExchange": 1.4,
+        "TransformationFactor": 1.217,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 11,
+        "Viplv": 10,
+        "LoginRewards": 1.9,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 212500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 4,
+        "PaymentCount": 10000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 3,
+        "MaxGiveCount": 75000000,
+        "GivingTax": 0.032,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 2,
+        "BuyCD": 0,
+        "VipPointExchange": 1.4,
+        "TransformationFactor": 1.2282,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 12,
+        "Viplv": 11,
+        "LoginRewards": 2,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 312500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 4,
+        "PaymentCount": 11000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 3,
+        "MaxGiveCount": 100000000,
+        "GivingTax": 0.03,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 2,
+        "BuyCD": 0,
+        "VipPointExchange": 1.5,
+        "TransformationFactor": 1.2394,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 13,
+        "Viplv": 12,
+        "LoginRewards": 3,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 450000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 5,
+        "PaymentCount": 12000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 3,
+        "MaxGiveCount": 200000000,
+        "GivingTax": 0.028,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 2,
+        "BuyCD": 0,
+        "VipPointExchange": 1.5,
+        "TransformationFactor": 1.2506,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 14,
+        "Viplv": 13,
+        "LoginRewards": 4,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 662500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 5,
+        "PaymentCount": 13000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 3,
+        "MaxGiveCount": 300000000,
+        "GivingTax": 0.026,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 1,
+        "BuyCD": 0,
+        "VipPointExchange": 1.6,
+        "TransformationFactor": 1.2618,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 15,
+        "Viplv": 14,
+        "LoginRewards": 5,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 937500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 5,
+        "PaymentCount": 14000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.024,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 1,
+        "BuyCD": 0,
+        "VipPointExchange": 1.6,
+        "TransformationFactor": 1.273,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 16,
+        "Viplv": 15,
+        "LoginRewards": 6,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 1375000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 6,
+        "PaymentCount": 15000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.022,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 1.7,
+        "TransformationFactor": 1.2842,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 17,
+        "Viplv": 16,
+        "LoginRewards": 7,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 1962500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 6,
+        "PaymentCount": 16000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.02,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 1.7,
+        "TransformationFactor": 1.2954,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 18,
+        "Viplv": 17,
+        "LoginRewards": 8,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 2837500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 7,
+        "PaymentCount": 17000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.018,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 1.8,
+        "TransformationFactor": 1.3066,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 19,
+        "Viplv": 18,
+        "LoginRewards": 9,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 4087500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 7,
+        "PaymentCount": 18000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.016,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 1.8,
+        "TransformationFactor": 1.3178,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 20,
+        "Viplv": 19,
+        "LoginRewards": 10,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 5850000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 7,
+        "PaymentCount": 19000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.014,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 1.9,
+        "TransformationFactor": 1.329,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 21,
+        "Viplv": 20,
+        "LoginRewards": 11,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 8412500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 8,
+        "PaymentCount": 20000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.012,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 1.9,
+        "TransformationFactor": 1.3402,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 22,
+        "Viplv": 21,
+        "LoginRewards": 15,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 12050000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 8,
+        "PaymentCount": 21000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.01,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2,
+        "TransformationFactor": 1.3514,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 23,
+        "Viplv": 22,
+        "LoginRewards": 20,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 17275000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 9,
+        "PaymentCount": 22000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.008,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2,
+        "TransformationFactor": 1.3626,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 24,
+        "Viplv": 23,
+        "LoginRewards": 25,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 24775000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 9,
+        "PaymentCount": 23000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.006,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2.1,
+        "TransformationFactor": 1.3738,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 25,
+        "Viplv": 24,
+        "LoginRewards": 30,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 35475000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 9,
+        "PaymentCount": 24000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.004,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2.1,
+        "TransformationFactor": 1.385,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 26,
+        "Viplv": 25,
+        "LoginRewards": 35,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 50812500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 9,
+        "PaymentCount": 25000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0.002,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2.2,
+        "TransformationFactor": 1.3962,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 27,
+        "Viplv": 26,
+        "LoginRewards": 40,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 72787500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 10,
+        "PaymentCount": 26000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2.2,
+        "TransformationFactor": 1.4074,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 28,
+        "Viplv": 27,
+        "LoginRewards": 45,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 275237500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 10,
+        "PaymentCount": 27000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2.3,
+        "TransformationFactor": 1.4186,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 29,
+        "Viplv": 28,
+        "LoginRewards": 50,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 400237500
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 11,
+        "PaymentCount": 28000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2.3,
+        "TransformationFactor": 1.4298,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 30,
+        "Viplv": 29,
+        "LoginRewards": 55,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 423575000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 11,
+        "PaymentCount": 29000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2.4,
+        "TransformationFactor": 1.441,
+        "ShuntFactor": 0.6
+    },
+    {
+        "Id": 31,
+        "Viplv": 30,
+        "LoginRewards": 60,
+        "Freeprop": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 619700000
+            }
+        ],
+        "PropsrewardIcon": [
+            "store_horn.png"
+        ],
+        "PaymentTimes": 11,
+        "PaymentCount": 30000,
+        "ChengTuoReward": 0,
+        "UnlockSession": 4,
+        "MaxGiveCount": 99999999999,
+        "GivingTax": 0,
+        "GiveCaps": 0,
+        "GiveRemaining": 0,
+        "GiveBuy": 0,
+        "BuyCD": 0,
+        "VipPointExchange": 2.4,
+        "TransformationFactor": 1.4522,
+        "ShuntFactor": 0.6
+    }
+]

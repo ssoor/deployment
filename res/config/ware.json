@@ -1,0 +1,2561 @@
+[
+    {
+        "Id": "20001",
+        "Name": "喇叭x5",
+        "SubChannel": "购买5个喇叭",
+        "Icon": "store_horn.png",
+        "IconCorner": "",
+        "Currency": 2,
+        "Price": 50000,
+        "Diamond": 0,
+        "Rewards": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            }
+        ],
+        "Additional": "",
+        "Condition": 0,
+        "CommodityType": 12,
+        "Channel": 4
+    },
+    {
+        "Id": "20002",
+        "Name": "喇叭x10",
+        "SubChannel": "购买10个喇叭",
+        "Icon": "store_horn.png",
+        "IconCorner": "",
+        "Currency": 2,
+        "Price": 95000,
+        "Diamond": 0,
+        "Rewards": [
+            {
+                "ConfigId": 7,
+                "Count": 10
+            }
+        ],
+        "Additional": "",
+        "Condition": [
+            {
+                "Price": 100000,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 12,
+        "Channel": 4
+    },
+    {
+        "Id": "20003",
+        "Name": "喇叭x20",
+        "SubChannel": "购买20个喇叭",
+        "Icon": "store_horn.png",
+        "IconCorner": "",
+        "Currency": 2,
+        "Price": 180000,
+        "Diamond": 0,
+        "Rewards": [
+            {
+                "ConfigId": 7,
+                "Count": 20
+            }
+        ],
+        "Additional": "",
+        "Condition": [
+            {
+                "Price": 200000,
+                "Des": "10%"
+            }
+        ],
+        "CommodityType": 12,
+        "Channel": 4
+    },
+    {
+        "Id": "20004",
+        "Name": "喇叭x50",
+        "SubChannel": "购买50个喇叭",
+        "Icon": "store_horn.png",
+        "IconCorner": "",
+        "Currency": 2,
+        "Price": 425000,
+        "Diamond": 0,
+        "Rewards": [
+            {
+                "ConfigId": 7,
+                "Count": 50
+            }
+        ],
+        "Additional": "",
+        "Condition": [
+            {
+                "Price": 500000,
+                "Des": "15%"
+            }
+        ],
+        "CommodityType": 12,
+        "Channel": 4
+    },
+    {
+        "Id": "20005",
+        "Name": "喇叭x100",
+        "SubChannel": "购买100个喇叭",
+        "Icon": "store_horn.png",
+        "IconCorner": "",
+        "Currency": 2,
+        "Price": 700000,
+        "Diamond": 0,
+        "Rewards": [
+            {
+                "ConfigId": 7,
+                "Count": 100
+            }
+        ],
+        "Additional": "",
+        "Condition": [
+            {
+                "Price": 1000000,
+                "Des": "30%"
+            }
+        ],
+        "CommodityType": 12,
+        "Channel": 4
+    },
+    {
+        "Id": "com.huoys.royalcasino.product8",
+        "Name": "七日礼包",
+        "SubChannel": "GooglePay",
+        "Icon": "",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 9900,
+        "Diamond": 99,
+        "Rewards": [
+            {
+                "ConfigId": 16,
+                "Count": 1
+            }
+        ],
+        "Additional": "",
+        "Condition": 0,
+        "CommodityType": 0,
+        "Channel": 3
+    },
+    {
+        "Id": "com.huoys.royalcasino.product1",
+        "Name": "筹码x203000",
+        "SubChannel": "GooglePay",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 2900,
+        "Diamond": 29,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 203000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 31,
+        "Channel": 3
+    },
+    {
+        "Id": "com.huoys.royalcasino.product2",
+        "Name": "筹码x483000",
+        "SubChannel": "GooglePay",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "best",
+        "Currency": 1,
+        "Price": 6900,
+        "Diamond": 69,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 511000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 1
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 7300,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 31,
+        "Channel": 3
+    },
+    {
+        "Id": "com.huoys.royalcasino.product3",
+        "Name": "筹码x1393000",
+        "SubChannel": "GooglePay",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "most",
+        "Currency": 1,
+        "Price": 19900,
+        "Diamond": 199,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1519000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 21700,
+                "Des": "8%"
+            }
+        ],
+        "CommodityType": 31,
+        "Channel": 3
+    },
+    {
+        "Id": "com.huoys.royalcasino.product4",
+        "Name": "筹码x2793000",
+        "SubChannel": "GooglePay",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 39900,
+        "Diamond": 399,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 2793000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 31,
+        "Channel": 3
+    },
+    {
+        "Id": "com.huoys.royalcasino.product5",
+        "Name": "筹码x6993000",
+        "SubChannel": "GooglePay",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 99900,
+        "Diamond": 999,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 6993000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 31,
+        "Channel": 3
+    },
+    {
+        "Id": "com.huoys.royalcasino.product6",
+        "Name": "筹码x13993000",
+        "SubChannel": "GooglePay",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 199900,
+        "Diamond": 1999,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 13993000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 31,
+        "Channel": 3
+    },
+    {
+        "Id": "com.huoys.royalcasino.product7",
+        "Name": "筹码x20993000",
+        "SubChannel": "GooglePay",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 299900,
+        "Diamond": 2999,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 23331000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 333300,
+                "Des": "10%"
+            }
+        ],
+        "CommodityType": 31,
+        "Channel": 3
+    },
+    {
+        "Id": "91001",
+        "Name": "筹码x350000",
+        "SubChannel": "12call",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "best",
+        "Currency": 1,
+        "Price": 5000,
+        "Diamond": 50,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 371000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 1
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 5300,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 21,
+        "Channel": 2
+    },
+    {
+        "Id": "91002",
+        "Name": "筹码x700000",
+        "SubChannel": "12call",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "most",
+        "Currency": 1,
+        "Price": 10000,
+        "Diamond": 100,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 742000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 10600,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 21,
+        "Channel": 2
+    },
+    {
+        "Id": "91003",
+        "Name": "筹码x2100000",
+        "SubChannel": "12call",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 30000,
+        "Diamond": 300,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 2338000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 33400,
+                "Des": "10%"
+            }
+        ],
+        "CommodityType": 21,
+        "Channel": 2
+    },
+    {
+        "Id": "91004",
+        "Name": "筹码x3500000",
+        "SubChannel": "12call",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 50000,
+        "Diamond": 500,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 3892000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 55600,
+                "Des": "10%"
+            }
+        ],
+        "CommodityType": 21,
+        "Channel": 2
+    },
+    {
+        "Id": "91005",
+        "Name": "筹码x7000000",
+        "SubChannel": "12call",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 100000,
+        "Diamond": 1000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 8239000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 117700,
+                "Des": "15%"
+            }
+        ],
+        "CommodityType": 21,
+        "Channel": 2
+    },
+    {
+        "Id": "92001",
+        "Name": "筹码x350000",
+        "SubChannel": "truemoney",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 5000,
+        "Diamond": 50,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 371000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 5300,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 22,
+        "Channel": 2
+    },
+    {
+        "Id": "92002",
+        "Name": "筹码x1050000",
+        "SubChannel": "truemoney",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "best",
+        "Currency": 1,
+        "Price": 15000,
+        "Diamond": 150,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1106000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 1
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 15800,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 22,
+        "Channel": 2
+    },
+    {
+        "Id": "92003",
+        "Name": "筹码x2100000",
+        "SubChannel": "truemoney",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "most",
+        "Currency": 1,
+        "Price": 30000,
+        "Diamond": 300,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 2338000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 33400,
+                "Des": "10%"
+            }
+        ],
+        "CommodityType": 22,
+        "Channel": 2
+    },
+    {
+        "Id": "92004",
+        "Name": "筹码x3500000",
+        "SubChannel": "truemoney",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 50000,
+        "Diamond": 500,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 3892000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 55600,
+                "Des": "10%"
+            }
+        ],
+        "CommodityType": 22,
+        "Channel": 2
+    },
+    {
+        "Id": "92005",
+        "Name": "筹码x7000000",
+        "SubChannel": "truemoney",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 100000,
+        "Diamond": 1000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 8239000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 117700,
+                "Des": "15%"
+            }
+        ],
+        "CommodityType": 22,
+        "Channel": 2
+    },
+    {
+        "Id": "93001",
+        "Name": "筹码x350000",
+        "SubChannel": "molpoints",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 5000,
+        "Diamond": 50,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 371000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 5300,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 23,
+        "Channel": 2
+    },
+    {
+        "Id": "93002",
+        "Name": "筹码x700000",
+        "SubChannel": "molpoints",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 10000,
+        "Diamond": 100,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 742000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 10600,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 23,
+        "Channel": 2
+    },
+    {
+        "Id": "93003",
+        "Name": "筹码x2100000",
+        "SubChannel": "molpoints",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "best",
+        "Currency": 1,
+        "Price": 30000,
+        "Diamond": 300,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 2338000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 1
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 33400,
+                "Des": "10%"
+            }
+        ],
+        "CommodityType": 23,
+        "Channel": 2
+    },
+    {
+        "Id": "93004",
+        "Name": "筹码x3500000",
+        "SubChannel": "molpoints",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "most",
+        "Currency": 1,
+        "Price": 50000,
+        "Diamond": 500,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 3892000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 55600,
+                "Des": "10%"
+            }
+        ],
+        "CommodityType": 23,
+        "Channel": 2
+    },
+    {
+        "Id": "93005",
+        "Name": "筹码x7000000",
+        "SubChannel": "molpoints",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 100000,
+        "Diamond": 1000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 8239000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 117700,
+                "Des": "15%"
+            }
+        ],
+        "CommodityType": 23,
+        "Channel": 2
+    },
+    {
+        "Id": "93006",
+        "Name": "筹码x24500000",
+        "SubChannel": "molpoints",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 350000,
+        "Diamond": 3500,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 29883000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 426900,
+                "Des": "18%"
+            }
+        ],
+        "CommodityType": 23,
+        "Channel": 2
+    },
+    {
+        "Id": "93007",
+        "Name": "筹码x35000000",
+        "SubChannel": "molpoints",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 500000,
+        "Diamond": 5000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 42686000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 609800,
+                "Des": "18%"
+            }
+        ],
+        "CommodityType": 23,
+        "Channel": 2
+    },
+    {
+        "Id": "95003",
+        "Name": "筹码x210000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 3000,
+        "Diamond": 30,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 210000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95004",
+        "Name": "筹码x350000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 5000,
+        "Diamond": 50,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 350000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95005",
+        "Name": "筹码x420000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 6000,
+        "Diamond": 60,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 420000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95006",
+        "Name": "筹码x630000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "best",
+        "Currency": 1,
+        "Price": 9000,
+        "Diamond": 90,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 665000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 1
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 9500,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95007",
+        "Name": "筹码x700000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "most",
+        "Currency": 1,
+        "Price": 10000,
+        "Diamond": 100,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 742000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 10600,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95008",
+        "Name": "筹码x1050000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 15000,
+        "Diamond": 150,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1155000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 16500,
+                "Des": "9%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95009",
+        "Name": "筹码x1400000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 20000,
+        "Diamond": 200,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1540000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 22000,
+                "Des": "9%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95010",
+        "Name": "筹码x2100000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 30000,
+        "Diamond": 300,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 2506000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 35800,
+                "Des": "16%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95011",
+        "Name": "筹码x3500000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 50000,
+        "Diamond": 500,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 3872000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 59600,
+                "Des": "16%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95012",
+        "Name": "筹码x7000000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 100000,
+        "Diamond": 1000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 8337000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 119100,
+                "Des": "16%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95013",
+        "Name": "筹码x14000000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 200000,
+        "Diamond": 2000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 17500000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 250000,
+                "Des": "20%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95014",
+        "Name": "筹码x21000000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 300000,
+        "Diamond": 3000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 26250000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 375000,
+                "Des": "20%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95015",
+        "Name": "筹码x35000000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 500000,
+        "Diamond": 5000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 43750000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 625000,
+                "Des": "20%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "95016",
+        "Name": "筹码x70000000",
+        "SubChannel": "truewallet",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 1000000,
+        "Diamond": 10000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 94598000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 1351400,
+                "Des": "26%"
+            }
+        ],
+        "CommodityType": 24,
+        "Channel": 2
+    },
+    {
+        "Id": "96003",
+        "Name": "筹码x210000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 3000,
+        "Diamond": 30,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 210000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96004",
+        "Name": "筹码x350000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 5000,
+        "Diamond": 50,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 350000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96005",
+        "Name": "筹码x420000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 6000,
+        "Diamond": 60,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 420000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96006",
+        "Name": "筹码x630000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "best",
+        "Currency": 1,
+        "Price": 9000,
+        "Diamond": 90,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 665000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 1
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 9500,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96007",
+        "Name": "筹码x700000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "most",
+        "Currency": 1,
+        "Price": 10000,
+        "Diamond": 100,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 742000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 10600,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96008",
+        "Name": "筹码x1050000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 15000,
+        "Diamond": 150,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1155000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 16500,
+                "Des": "9%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96009",
+        "Name": "筹码x1400000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 20000,
+        "Diamond": 200,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1540000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 22000,
+                "Des": "9%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96010",
+        "Name": "筹码x2100000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 30000,
+        "Diamond": 300,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 2506000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 35800,
+                "Des": "16%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96011",
+        "Name": "筹码x3500000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 50000,
+        "Diamond": 500,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 4172000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 59600,
+                "Des": "16%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96012",
+        "Name": "筹码x7000000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 100000,
+        "Diamond": 1000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 8337000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 119100,
+                "Des": "16%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96013",
+        "Name": "筹码x14000000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 200000,
+        "Diamond": 2000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 17500000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 250000,
+                "Des": "20%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96014",
+        "Name": "筹码x21000000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 300000,
+        "Diamond": 3000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 26250000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 375000,
+                "Des": "20%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96015",
+        "Name": "筹码x35000000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 500000,
+        "Diamond": 5000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 43750000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 625000,
+                "Des": "20%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "96016",
+        "Name": "筹码x70000000",
+        "SubChannel": "mpay",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 1000000,
+        "Diamond": 10000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 94598000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 1351400,
+                "Des": "26%"
+            }
+        ],
+        "CommodityType": 25,
+        "Channel": 2
+    },
+    {
+        "Id": "97003",
+        "Name": "筹码x210000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 3000,
+        "Diamond": 30,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 210000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97004",
+        "Name": "筹码x350000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 5000,
+        "Diamond": 50,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 350000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97005",
+        "Name": "筹码x420000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 6000,
+        "Diamond": 60,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 420000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97006",
+        "Name": "筹码x630000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "best",
+        "Currency": 1,
+        "Price": 9000,
+        "Diamond": 90,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 665000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 1
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 9500,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97007",
+        "Name": "筹码x700000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "most",
+        "Currency": 1,
+        "Price": 10000,
+        "Diamond": 100,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 742000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 10600,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97008",
+        "Name": "筹码x1050000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 15000,
+        "Diamond": 150,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1155000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 16500,
+                "Des": "9%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97009",
+        "Name": "筹码x1400000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 20000,
+        "Diamond": 200,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1540000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 22000,
+                "Des": "9%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97010",
+        "Name": "筹码x2100000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 30000,
+        "Diamond": 300,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 2506000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 35800,
+                "Des": "16%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97011",
+        "Name": "筹码x3500000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 50000,
+        "Diamond": 500,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 4172000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 59600,
+                "Des": "16%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97012",
+        "Name": "筹码x7000000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 100000,
+        "Diamond": 1000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 8337000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 119100,
+                "Des": "16%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97013",
+        "Name": "筹码x14000000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 200000,
+        "Diamond": 2000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 17500000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 250000,
+                "Des": "20%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97014",
+        "Name": "筹码x21000000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 300000,
+        "Diamond": 3000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 26250000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 375000,
+                "Des": "20%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97015",
+        "Name": "筹码x35000000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 500000,
+        "Diamond": 5000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 43750000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 625000,
+                "Des": "20%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "97016",
+        "Name": "筹码x70000000",
+        "SubChannel": "linepay",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 1000000,
+        "Diamond": 10000,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 94598000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 1351400,
+                "Des": "26%"
+            }
+        ],
+        "CommodityType": 26,
+        "Channel": 2
+    },
+    {
+        "Id": "94003",
+        "Name": "筹码x210000",
+        "SubChannel": "psms",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 3000,
+        "Diamond": 30,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 210000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 27,
+        "Channel": 2
+    },
+    {
+        "Id": "94004",
+        "Name": "筹码x350000",
+        "SubChannel": "psms",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 5000,
+        "Diamond": 50,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 350000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 27,
+        "Channel": 2
+    },
+    {
+        "Id": "94005",
+        "Name": "筹码x420000",
+        "SubChannel": "psms",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 6000,
+        "Diamond": 60,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 420000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 27,
+        "Channel": 2
+    },
+    {
+        "Id": "94006",
+        "Name": "筹码x630000",
+        "SubChannel": "psms",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 9000,
+        "Diamond": 90,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 630000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 27,
+        "Channel": 2
+    },
+    {
+        "Id": "94007",
+        "Name": "筹码x700000",
+        "SubChannel": "psms",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 10000,
+        "Diamond": 100,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 700000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 27,
+        "Channel": 2
+    },
+    {
+        "Id": "94008",
+        "Name": "筹码x1050000",
+        "SubChannel": "psms",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 15000,
+        "Diamond": 150,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1050000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 27,
+        "Channel": 2
+    },
+    {
+        "Id": "94009",
+        "Name": "筹码x1400000",
+        "SubChannel": "psms",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 20000,
+        "Diamond": 200,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1400000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 27,
+        "Channel": 2
+    },
+    {
+        "Id": "94010",
+        "Name": "筹码x2100000",
+        "SubChannel": "psms",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 30000,
+        "Diamond": 300,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 2100000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 27,
+        "Channel": 2
+    },
+    {
+        "Id": "94011",
+        "Name": "筹码x3500000",
+        "SubChannel": "psms",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "most",
+        "Currency": 1,
+        "Price": 50000,
+        "Diamond": 500,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 3689000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 52700,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 27,
+        "Channel": 2
+    },
+    {
+        "Id": "com.huoys.royalcasino.productios1",
+        "Name": "筹码x245000",
+        "SubChannel": "ios",
+        "Icon": "diamondIcon_1.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 3500,
+        "Diamond": 35,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 245000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 41,
+        "Channel": 1
+    },
+    {
+        "Id": "com.huoys.royalcasino.productios2",
+        "Name": "筹码x483000",
+        "SubChannel": "ios",
+        "Icon": "diamondIcon_2.png",
+        "IconCorner": "best",
+        "Currency": 1,
+        "Price": 6900,
+        "Diamond": 69,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 511000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 1
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 7300,
+                "Des": "5%"
+            }
+        ],
+        "CommodityType": 41,
+        "Channel": 1
+    },
+    {
+        "Id": "com.huoys.royalcasino.productios3",
+        "Name": "筹码x973000",
+        "SubChannel": "ios",
+        "Icon": "diamondIcon_3.png",
+        "IconCorner": "most",
+        "Currency": 1,
+        "Price": 13900,
+        "Diamond": 139,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1058000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 7,
+                "Count": 5
+            },
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 15200,
+                "Des": "8%"
+            }
+        ],
+        "CommodityType": 41,
+        "Channel": 1
+    },
+    {
+        "Id": "com.huoys.royalcasino.productios4",
+        "Name": "筹码x1463000",
+        "SubChannel": "ios",
+        "Icon": "diamondIcon_4.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 20900,
+        "Diamond": 209,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 1463000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 41,
+        "Channel": 1
+    },
+    {
+        "Id": "com.huoys.royalcasino.productios5",
+        "Name": "筹码x2723000",
+        "SubChannel": "ios",
+        "Icon": "diamondIcon_5.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 38900,
+        "Diamond": 389,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 2723000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 41,
+        "Channel": 1
+    },
+    {
+        "Id": "com.huoys.royalcasino.productios6",
+        "Name": "筹码x4893000",
+        "SubChannel": "ios",
+        "Icon": "diamondIcon_6.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 69900,
+        "Diamond": 699,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 4893000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": 0,
+        "CommodityType": 41,
+        "Channel": 1
+    },
+    {
+        "Id": "com.huoys.royalcasino.productios7",
+        "Name": "筹码x6363000",
+        "SubChannel": "ios",
+        "Icon": "diamondIcon_7.png",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 90900,
+        "Diamond": 909,
+        "Rewards": [
+            {
+                "ConfigId": 2,
+                "Count": 6363000
+            }
+        ],
+        "Additional": [
+            {
+                "ConfigId": 13,
+                "Count": 0
+            }
+        ],
+        "Condition": [
+            {
+                "Price": 101000,
+                "Des": "10%"
+            }
+        ],
+        "CommodityType": 41,
+        "Channel": 1
+    },
+    {
+        "Id": "com.huoys.royalcasino.productios8",
+        "Name": "七日礼包",
+        "SubChannel": "ios",
+        "Icon": "",
+        "IconCorner": "",
+        "Currency": 1,
+        "Price": 9900,
+        "Diamond": 99,
+        "Rewards": [
+            {
+                "ConfigId": 16,
+                "Count": 1
+            }
+        ],
+        "Additional": "",
+        "Condition": 0,
+        "CommodityType": 0,
+        "Channel": 1
+    }
+]

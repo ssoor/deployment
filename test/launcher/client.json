@@ -1,0 +1,8 @@
+{
+    "MonitorEnabled": false,
+    "HallUrl": "http://127.0.0.1:9527/",
+    "GateAddress": "127.0.0.1:5001",
+    "GameAddress": "127.0.0.1:10011",
+    "Log4NetConfigPath": "log4net.config",
+    "LoggerName": "Client"
+}

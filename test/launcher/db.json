@@ -1,0 +1,6 @@
+{
+  "Redis": {
+    "Temporary": "redis_cache:6000",
+    "Persistant": "redis_persistent:6000"
+  }
+}

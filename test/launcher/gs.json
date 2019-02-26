@@ -1,0 +1,37 @@
+{
+  "MonitorEnabled": false,
+  "Log4NetConfigPath": "log4net.config",
+  "LoggerName": "gs",
+  "JackpotConfig": {
+    "Items": [
+      {
+        "GroupId": 1,
+        "Min": 499500,
+        "Max": 989500,
+        "RefreshDuration": 300000
+      },
+      {
+        "GroupId": 2,
+        "Min": 29970800,
+        "Max": 59970800,
+        "RefreshDuration": 300000
+      },
+      {
+        "GroupId": 3,
+        "Min": 999000000,
+        "Max": 1987500000,
+        "RefreshDuration": 300000
+      },
+      {
+        "GroupId": 4,
+        "Min": 21058000,
+        "Max": 33108000,
+        "RefreshDuration": 300000
+      }
+    ]
+  },
+  "DistributeMode": 1,
+  "Capacity": 1000,
+  "AliveCheckDuration": 60000,
+  "LogUrl": "http://logger:1234/_internal/record"
+}

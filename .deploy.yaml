@@ -1,0 +1,47 @@
+
+
+
+deploys:
+  base_base:
+    runtime: 
+      - type: systemd
+        workDir: "/usr/local/gitlab-runner/gank/hall"
+      - type: dockerfile
+        image: "golang:1.11"
+        workDir: "/work"
+
+  base:
+    imports:
+      - base_base
+    env:
+      - name: "HTTP_PROXY"
+        value: "172.13.0.52:8118"
+      - name: "HTTPS_PROXY"
+        value: "172.13.0.52:8118"
+    assets:
+      - name: libs
+        target: "test"
+        source: "res/*.*"
+      - name: global-config
+        target: "test/config"
+        source: "res/config/*"
+      - name: project-config
+        target: "test"
+        source: "res/launcher"
+
+  hall:
+    imports:
+      - base
+    cmd: "/usr/bin/dotnet hall.dll -entry . -c hall.json -db db.json -http http://+:${PORT}/"
+    ports:
+      - name: http
+        protocol: tcp
+        containerPort:  "${PORT}"
+  gs:
+    imports:
+      - base
+    cmd: "/usr/bin/dotnet gs.dll -entry . -db db.json -http http://*:${PORT}/ -gid ${GAMEID} ${JP}"
+    ports:
+      - name: http
+        protocol: tcp
+        containerPort:  "${PORT}"

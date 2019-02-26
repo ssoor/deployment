@@ -1,0 +1,23 @@
+{
+  "OnlineCollectingInterval": 300000,
+  "MonitorEnabled": false,
+  "Log4NetConfigPath": "log4net.config",
+  "LoggerName": "Cache",
+  "Http": "http://+:9527/",
+  "WebUrl": "http://gh.hys.com/API/",
+  "Tcp": "",
+  "MolPrivateKey": "188f22f60d31d0654e707e3d335ea623",
+  "MolS2SSid": "3664",
+  "MolWebSid": "3662",
+  "MolCashcardUrl": "http://172.13.0.52:12345/cashcard",
+  "IosPurchaseVerifyUrl": "https://sandbox.itunes.apple.com/verifyReceipt",
+  "LogUrl": "http://logger:1234/_internal/record",
+  "InitPurchaseCapacity": 19900,
+  "DefaultFacebookId": "1848877565186790",
+  "GooglePurchasePublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6kDMfeR/J539VbKoxFhCBzOqCUdV4XaXz/m9MEvSXeGBSurxtMAxt+Rw1xe5h5//yrLZSZpiycpkpGniz47wToqb4w9nFRwap07Ws0DaAmzIa/jI9FGmvo3Z2u+NqrgZ2RrwTHo9OnDaB1Emt449OwJMTMIkOYWYraMR+HZRvxDe6w9zBdAb8nQoCQe7DdNSHnrVOrSmGlldYzZ259neTuAYhmhSvbKOMb2aDVlf0j4G3bAHnXEyl+KZZMIzBBaiMKP6uZP3NTii1Dr3P5Y9GiRNJJEmdxWh4kccDQoWtXhR5EpnM3nW4HGc9SJwbq9UKV8IR3cuQIkOu+L6Fz6AwIDAQAB",
+  "ShortSmsExpireDuration": 300,
+  "LongSmsExpireDuration": 2592000,
+  "ENV": 2,
+  "IosLockChouMaScale": 25,
+  "WhiteIpListRegex": "::1|fe80::*|127.0.0.1|172.*|173.13*|61.47.41.16[3-6]|52.220.89.215|52.76.185.36|13.228.55.124|47.88.223.102"
+}

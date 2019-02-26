@@ -1,0 +1,10 @@
+{
+    "serve": {
+        "listen": ":5001",
+        "max_send_chan": 20,
+        "max_recv_chan": 20
+    },
+    "redis": {
+        "addr": "redis_cache:6379"
+    }
+}

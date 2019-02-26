@@ -1,0 +1,107 @@
+[
+    {
+        "Id": 1001,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":2, \"Count\":50000}]\""
+    },
+    {
+        "Id": 1002,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":2, \"Count\":100000}]\""
+    },
+    {
+        "Id": 1003,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":2, \"Count\":500000}]\""
+    },
+    {
+        "Id": 1004,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":2, \"Count\":1000000}]\""
+    },
+    {
+        "Id": 1005,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":2, \"Count\":3000000}]\""
+    },
+    {
+        "Id": 1006,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":2, \"Count\":5000000}]\""
+    },
+    {
+        "Id": 1101,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":9001, \"Count\":10}]\""
+    },
+    {
+        "Id": 1102,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":9002, \"Count\":5}]\""
+    },
+    {
+        "Id": 1103,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":9002, \"Count\":15}]\""
+    },
+    {
+        "Id": 1104,
+        "Category": "EC_Prop",
+        "Params": "\"[{\"ConfigId\":9003, \"Count\":10}]\""
+    },
+    {
+        "Id": 2201,
+        "Category": "EC_Buf",
+        "Params": "\"{\"BufConfigId\":30001}\""
+    },
+    {
+        "Id": 2202,
+        "Category": "EC_Buf",
+        "Params": "\"{\"BufConfigId\":30002}\""
+    },
+    {
+        "Id": 2203,
+        "Category": "EC_Buf",
+        "Params": "\"{\"BufConfigId\":30003}\""
+    },
+    {
+        "Id": 2204,
+        "Category": "EC_Buf",
+        "Params": "\"{\"BufConfigId\":30004}\""
+    },
+    {
+        "Id": 2205,
+        "Category": "EC_Buf",
+        "Params": "\"{\"BufConfigId\":30005}\""
+    },
+    {
+        "Id": 2206,
+        "Category": "EC_Buf",
+        "Params": "\"{\"BufConfigId\":30006}\""
+    },
+    {
+        "Id": 3001,
+        "Category": "EC_Lottery",
+        "Params": ""
+    },
+    {
+        "Id": 3002,
+        "Category": "EC_Lottery",
+        "Params": ""
+    },
+    {
+        "Id": 3003,
+        "Category": "EC_Lottery",
+        "Params": ""
+    },
+    {
+        "Id": 4001,
+        "Category": "EC_Combo",
+        "Params": "[1,2]"
+    },
+    {
+        "Id": 5001,
+        "Category": "EC_ModBufCD",
+        "Params": "\"{\"BufConfigId\":1, \"Speed\":0.5}\""
+    }
+]

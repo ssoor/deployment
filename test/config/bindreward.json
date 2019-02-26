@@ -1,0 +1,14 @@
+{
+    "FacebookBind": [
+        {
+            "ConfigId": 2,
+            "Count": 5000
+        }
+    ],
+    "TelBind": [
+        {
+            "ConfigId": 2,
+            "Count": 10000
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "Id": 30001,
+        "Category": "BC_ModProp",
+        "Life": 43200,
+        "Period": -1,
+        "Effects": "",
+        "Params": "\"{\"ConfigId\":1100201,\"Speed\":2.0,\"Method\":\"Reward\",\"Source\":\"TS_Effect\"}\""
+    },
+    {
+        "Id": 30002,
+        "Category": "BC_ModProp",
+        "Life": 86400,
+        "Period": -1,
+        "Effects": "",
+        "Params": "\"{\"ConfigId\":1100202,\"Speed\":2.0,\"Method\":\"Reward\",\"Source\":\"TS_Effect\"}\""
+    },
+    {
+        "Id": 30003,
+        "Category": "BC_ModProp",
+        "Life": 129600,
+        "Period": -1,
+        "Effects": "",
+        "Params": "\"{\"ConfigId\":1100203,\"Speed\":2.0,\"Method\":\"Reward\",\"Source\":\"TS_Effect\"}\""
+    },
+    {
+        "Id": 30004,
+        "Category": "BC_ModProp",
+        "Life": 172800,
+        "Period": -1,
+        "Effects": "",
+        "Params": "\"{\"ConfigId\":1100204,\"Speed\":2.0,\"Method\":\"Reward\",\"Source\":\"TS_Effect\"}\""
+    },
+    {
+        "Id": 30005,
+        "Category": "BC_ModProp",
+        "Life": 216000,
+        "Period": -1,
+        "Effects": "",
+        "Params": "\"{\"ConfigId\":1100205,\"Speed\":2.0,\"Method\":\"Reward\",\"Source\":\"TS_Effect\"}\""
+    },
+    {
+        "Id": 30006,
+        "Category": "BC_ModProp",
+        "Life": 259200,
+        "Period": -1,
+        "Effects": "",
+        "Params": "\"{\"ConfigId\":1100206,\"Speed\":2.0,\"Method\":\"Reward\",\"Source\":\"TS_Effect\"}\""
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "TaxMax": 3000,
+	"TaxWarning": 15,
+	"From": "18938886626@163.com",
+	"To": "634249764@qq.com",
+	"Host": "smtp.163.com",
+	"Account": "18938886626@163.com",
+	"Pwd": "ding1989"
+}
